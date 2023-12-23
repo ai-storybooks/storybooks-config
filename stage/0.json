@@ -1,0 +1,90 @@
+{
+    "character": {
+        "gender": [
+            {
+                "key": "masculine",
+                "value": "Masculine"
+            },
+            {
+                "key": "feminine",
+                "value": "Feminine"
+            },
+            {
+                "key": "non-binary",
+                "value": "Non-binary"
+            },
+            {
+                "key": "random",
+                "value": "Random"
+            },
+        ],
+    },
+    "scenario": [
+        {
+            "key": "adventure_quests",
+            "value": "Adventure Quests"
+        },
+        {
+            "key": "friendship_tales",
+            "value": "Friendship Tales"
+        },
+        {
+            "key": "imaginary_worlds",
+            "value": "Imaginary Worlds"
+        },
+        {
+            "key": "coming_of_age_stories",
+            "value": "Coming of Age Stories"
+        },
+        {
+            "key": "animal_adventures",
+            "value": "Animal Adventures"
+        },
+        {
+            "key": "moral_dilemmas",
+            "value": "Moral Dilemmas"
+        },
+        {
+            "key": "problem_solving_mysteries",
+            "value": "Problem Solving Mysteries"
+        }
+    ],
+    "objective": [
+        {
+            "key": "promote_kindness",
+            "value": "Promote kindness"
+        },
+        {
+            "key": "environmental_conservation",
+            "value": "Environmental conservation"
+        },
+        {
+            "key": "personal_responsibility",
+            "value": "Personal responsibility"
+        },
+        {
+            "key": "overcoming_fears",
+            "value": "Overcoming fears"
+        },
+        {
+            "key": "health_and_well_being",
+            "value": "Health and well-being"
+        },
+        {
+            "key": "inclusivity_and_acceptance",
+            "value": "Inclusivity and acceptance"
+        },
+        {
+            "key": "independence_and_self_reliance",
+            "value": "Independence and self-reliance"
+        },
+        {
+            "key": "resilience_and_perseverance",
+            "value": "Resilience and perseverance"
+        },
+        {
+            "key": "humor_and_joy",
+            "value": "Humor and joy"
+        }
+    ]
+}
