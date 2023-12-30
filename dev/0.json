@@ -21,31 +21,31 @@
     },
     "art_styles": [
         {
-            "key": "traditional_cartoon_style",
+            "key": "traditional_cartoon",
             "value": "Traditional Cartoon"
         },
         {
-            "key": "realistic_cartoon_style",
+            "key": "realistic_cartoon",
             "value": "Realistic Cartoon"
         },
         {
-            "key": "minimalistic_style",
+            "key": "minimalistic",
             "value": "Minimalistic"
         },
         {
-            "key": "watercolor_style",
+            "key": "watercolor",
             "value": "Watercolor"
         },        
         {
-            "key": "digital_illustration_style",
+            "key": "digital_illustration",
             "value": "Digital Illustration"
         },
         {
-            "key": "collage_style",
+            "key": "collage",
             "value": "Collage"
         },
         {
-            "key": "comic_book_style",
+            "key": "comic_book",
             "value": "Comic Book"
         }
     ],
