@@ -19,6 +19,36 @@
             }
         ]
     },
+    "art_styles": [
+        {
+            "key": "traditional_cartoon_style",
+            "value": "Traditional Cartoon Style"
+        },
+        {
+            "key": "realistic_cartoon_style",
+            "value": "Realistic Cartoon Style"
+        },
+        {
+            "key": "minimalistic_style",
+            "value": "Minimalistic Style"
+        },
+        {
+            "key": "watercolor_style",
+            "value": "Watercolor Style"
+        },        
+        {
+            "key": "digital_illustration_style",
+            "value": "Digital Illustration Style"
+        },
+        {
+            "key": "collage_style",
+            "value": "Collage Style"
+        },
+        {
+            "key": "comic_book_style",
+            "value": "Comic Book Style"
+        }
+    ],
     "scenario": [
         {
             "key": "adventure_quests",
