@@ -1,4 +1,38 @@
 {
+    "age": [
+        {
+            "key":1,
+            "value": "Simple, repetitive phrases. {e.g., \"See the dog. The dog runs. Run, dog, run.\"} Focus on basic vocabulary and concepts."
+        },
+        {
+            "key":2,
+            "value": "Simple sentences with basic story elements. {e.g., The cat is hungry. The cat finds a fish.} Introduce familiar daily activities and objects."
+        },
+        {
+            "key":3,
+            "value": "More detailed sentences, introducing adjectives and verbs. {e.g., \"The little red bird sings sweetly in the big tree.\"} Stories can have a simple narrative."
+        },
+        {
+            "key":4,
+            "value": "Longer sentences with a more complex structure. {e.g., \"The brave mouse ventured out into the night to find cheese.\"} Stories should have a clear beginning, middle, and end."
+        },
+        {
+            "key":5,
+            "value": "Introduction of basic dialogue and more descriptive language. {e.g., \"I am scared, whispered the rabbit to his friend. It's okay, replied the fox.\"} Themes can include friendship and emotions."
+        },
+        {
+            "key":6,
+            "value": "More complex storylines with multiple characters and events. {e.g., \"The pirates searched the island, finding clues to the hidden treasure.  They followed a map with multiple clues:\"} Introduce elements of humor or mild suspense."
+        },
+        {
+            "key":7,
+            "value": "Advanced sentence structures, including subordination and richer vocabulary. {e.g., \"As the sun set, the adventurers realized they were lost in the enchanted forest.\"} Stories can have moral lessons and more sophisticated themes."
+        },
+        {
+            "key":8,
+            "value": "Advanced sentence structures, including subordination and richer vocabulary. {e.g., \"As the sun set, the careless adventurers realized they were lost in the enchanted forest.\"} Stories can have moral lessons and more sophisticated themes."
+        }
+    ],   
     "character": {
         "gender": [
             {
@@ -52,7 +86,7 @@
     "scenario": [
         {
             "key": "adventure_quests",
-            "value": "Adventure Quests"
+            "value": "Adventure Quests, the main character meets a new challenge, for example "
         },
         {
             "key": "friendship_tales",
@@ -72,7 +106,7 @@
         },
         {
             "key": "moral_dilemmas",
-            "value": "Moral Dilemmas"
+            "value": "Moral Dilemmas - in an age appropriate manner the main character is presented with an ambiguous choice.  for example the trolley problem"
         },
         {
             "key": "problem_solving_mysteries",
@@ -82,39 +116,39 @@
     "objective": [
         {
             "key": "promote_kindness",
-            "value": "Promote kindness"
+            "value": "Promote kindness: The main character should show through their actions how to help those who are struggling, for example an animal that has lost its way or another child having trouble with a toy"
         },
         {
             "key": "environmental_conservation",
-            "value": "Environmental conservation"
+            "value": "Environmental conservation: the story should promote sustainable practices of taking care of earth's resources, for example sustainable farming or water use."
         },
         {
             "key": "personal_responsibility",
-            "value": "Personal responsibility"
+            "value": "Personal responsibility, the story should focus on the impact the main characters actions have on others around them and how to take responsibility for our actions, in an age appropriate way"
         },
         {
             "key": "overcoming_fears",
-            "value": "Overcoming fears"
+            "value": "Overcoming fears, the main character is put in a situation that can be frightening (but is age appropriate), and learns to overcome their fears through courage or with the help of friends"
         },
         {
             "key": "health_and_well_being",
-            "value": "Health and well-being"
+            "value": "Health and well-being - the main character learns how much better they feel after eating healthy foods or exercising.  Conversely they may get a tummy ache after eating junk food "
         },
         {
             "key": "inclusivity_and_acceptance",
-            "value": "Inclusivity and acceptance"
+            "value": "Inclusivity and acceptance, the main character meets new friends (either animal or human) of different backgrounds, ethnicities, or culture and learns to understand and appreciate their similarities and differences"
         },
         {
             "key": "independence_and_self_reliance",
-            "value": "Independence and self-reliance"
+            "value": "Independence and self-reliance - in an age appropriate way the main character is put in a situation where they have to make their own decisions.  For example"
         },
         {
             "key": "resilience_and_perseverance",
-            "value": "Resilience and perseverance"
+            "value": "Resilience and perseverance - the main character overcomes a challenge by continuing to try new ways of approaching a problem, for example how to put a toy together"
         },
         {
             "key": "humor_and_joy",
-            "value": "Humor and joy"
+            "value": "Humor and joy, the main character celebrates a holiday with family who tell funny stories.  The story could focus on a grandmother or other relative"
         }
     ]
 }
