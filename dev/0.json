@@ -86,15 +86,15 @@
     "scenario": [
         {
             "key": "adventure_quests",
-            "value": "Adventure Quests, the main character meets a new challenge, for example "
+            "value": "Adventure Quests, the main character meets a new challenge, for example exploring a new area near their home, going on a road trip with family, or even a magical adventure"
         },
         {
             "key": "friendship_tales",
-            "value": "Friendship Tales"
+            "value": "Friendship Tales - through working with their friends the main character is able to complete a task they would be unable to do themselves"
         },
         {
             "key": "imaginary_worlds",
-            "value": "Imaginary Worlds"
+            "value": "Imaginary Worlds - be creative and invent a magical world - it could be in the clouds, in space, in medieval times, or the characters could shrink down to tiny size"
         },
         {
             "key": "coming_of_age_stories",
